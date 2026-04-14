@@ -1,0 +1,13 @@
+{
+	"packageName":"cuda",
+	"files":[
+		"cuda.wl"
+	],
+	"directories":[
+		"cuda_info"
+	],
+	"excludePatterns":[
+		"cuda_info\/history\/",
+		"cuda_info\/references\/"
+	]
+}
